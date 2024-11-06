@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<libros>
+    <libro>
+        <autor>Antonie de Saint-Exupery</autor>
+        <publicacion>2020</publicacion>
+        <titulo>El principito - Nueva edicion</titulo>
+    </libro>
+</libros>
